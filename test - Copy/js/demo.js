@@ -16,6 +16,7 @@ var data = [{
     title: "Review yesterday's commits"
 }, {
     start: 100,
+
     duration: 15,
     title: "Code review"
 }, {
